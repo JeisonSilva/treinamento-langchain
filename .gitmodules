@@ -1,0 +1,6 @@
+[submodule "classificador-suporte"]
+	path = classificador-suporte
+	url = ./classificador-suporte/
+[submodule "eco-inteligente"]
+	path = eco-inteligente
+	url = ./eco-inteligente/
